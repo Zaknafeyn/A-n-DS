@@ -8,4 +8,5 @@ Algorithms and data structures - tasks and solutions
 # Sortings 
  - [Selection sort](https://dotnetfiddle.net/9VvsTX)
  - [Inserion sorts](https://dotnetfiddle.net/3dsifx)
+ - [Recursive insertion sort](https://dotnetfiddle.net/KR5k2v)
  - [Merge sort](https://dotnetfiddle.net/pgR9rX)
