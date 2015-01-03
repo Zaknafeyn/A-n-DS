@@ -7,5 +7,5 @@ Algorithms and data structures - tasks and solutions
 
 # Sortings 
  - [Selection sort](https://dotnetfiddle.net/9VvsTX)
- - [Inserion sorts]()
+ - [Inserion sorts](https://dotnetfiddle.net/3dsifx)
  - [Merge sort](https://dotnetfiddle.net/pgR9rX)
