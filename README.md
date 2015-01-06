@@ -3,7 +3,8 @@ A-n-DS
 
 # Algorithms and data structures - tasks and solutions
 
-[Sorting algorithm comparison](http://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms) 
+[Sorting algorithm comparison](http://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms)   
+[Algorithm comparison (habrahabr)](http://habrahabr.ru/post/188010/)
 
 ### Sortings 
  - [Selection sort](https://dotnetfiddle.net/9VvsTX)
